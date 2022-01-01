@@ -5,7 +5,7 @@ import os
 os.system('cls')
 
 print("="*31)
-print("\n### Rock - Scrissor - Paper ###")
+print("\n### Scrissor - Paper - Rock ###")
 print("\n        I Hope You \n     Enjoy This Game")
 print("\n   Created by @Deavennn \n           2021      \n")
 print("="*31)
